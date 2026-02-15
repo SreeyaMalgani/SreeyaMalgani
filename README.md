@@ -14,7 +14,7 @@
 
 ---
 
-## ðŸ‘©â€ðŸ’» About Me
+## 👩‍💻 About Me
 
 ```python
 class DataAnalyst:
@@ -34,18 +34,18 @@ class DataAnalyst:
         }
     
     def passion(self):
-        return "Turning complex data into actionable insights ðŸ“Š"
+        return "Turning complex data into actionable insights 📊"
 
 me = DataAnalyst()
 ```
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ðŸ“Š Data Analysis & Visualization
+### 📊 Data Analysis & Visualization
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -53,19 +53,19 @@ me = DataAnalyst()
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ðŸ—„ï¸ Databases & Query Languages
+### 🗄️ Databases & Query Languages
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
-### ðŸ¤– Machine Learning & Statistics
+### 🤖 Machine Learning & Statistics
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge&logo=sas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### â˜ï¸ Cloud & Tools
+### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -75,22 +75,22 @@ me = DataAnalyst()
 
 ---
 
-## ðŸ“ˆ Featured Projects
+## 📈 Featured Projects
 
 <div align="center">
 
-| ðŸŽ¯ Project | ðŸ“ Description | ðŸ› ï¸ Tech Stack |
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| **ðŸŽ“ Student Performance Prediction** | Built Random Forest classifier achieving 92% accuracy with SHAP explainability | `Python` `Scikit-learn` `SHAP` |
-| **âš¡ Energy Consumption Forecasting** | Time-series forecasting improving prediction accuracy by 28% | `Python` `ARIMA` `SQL` |
-| **ðŸ›’ Customer Purchase Prediction** | AutoML predictive model with 75% precision on e-commerce data | `Google AutoML` `BigQuery` `Tableau` |
-| **ðŸ“Š Health Metrics Dashboard** | Interactive dashboards tracking KPIs for NY State health programs | `Tableau` `SQL` `Python` |
+| **🎓 Student Performance Prediction** | Built Random Forest classifier achieving 92% accuracy with SHAP explainability | `Python` `Scikit-learn` `SHAP` |
+| **⚡ Energy Consumption Forecasting** | Time-series forecasting improving prediction accuracy by 28% | `Python` `ARIMA` `SQL` |
+| **🛒 Customer Purchase Prediction** | AutoML predictive model with 75% precision on e-commerce data | `Google AutoML` `BigQuery` `Tableau` |
+| **📊 Health Metrics Dashboard** | Interactive dashboards tracking KPIs for NY State health programs | `Tableau` `SQL` `Python` |
 
 </div>
 
 ---
 
-## ðŸ“Š GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreeyamalgani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%" alt="GitHub Stats"/>
@@ -103,23 +103,23 @@ me = DataAnalyst()
 
 ---
 
-## ðŸ† Highlights
+## 🏆 Highlights
 
 <div align="center">
 
-ðŸ”¹ **4+ Years** of Data Analysis Experience &nbsp;|&nbsp; ðŸ”¹ **30%** ETL Pipeline Efficiency Gains &nbsp;|&nbsp; ðŸ”¹ **92%** ML Model Accuracy
+🔹 **4+ Years** of Data Analysis Experience &nbsp;|&nbsp; 🔹 **30%** ETL Pipeline Efficiency Gains &nbsp;|&nbsp; 🔹 **92%** ML Model Accuracy
 
-ðŸ”¹ **100K+** Records Processed &nbsp;|&nbsp; ðŸ”¹ **50+** Regions Analyzed via Heatmaps &nbsp;|&nbsp; ðŸ”¹ **MS Data Science** in Progress
+🔹 **100K+** Records Processed &nbsp;|&nbsp; 🔹 **50+** Regions Analyzed via Heatmaps &nbsp;|&nbsp; 🔹 **MS Data Science** in Progress
 
 </div>
 
 ---
 
-## ðŸ“¬ Let's Connect!
+## 📬 Let's Connect!
 
 <div align="center">
   
-ðŸ’¼ Open to **Data Analyst** and **Business Intelligence** opportunities!
+💼 Open to **Data Analyst** and **Business Intelligence** opportunities!
 
 <br/>
 
@@ -137,4 +137,8 @@ me = DataAnalyst()
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+
+
+
 
